@@ -1,7 +1,7 @@
 package Valueobject;
 
 import java.util.Scanner;
-
+//coderabbit review
 public class VIndex {
 		private int code;
 		private String name;

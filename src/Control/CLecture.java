@@ -4,7 +4,7 @@ import java.util.Vector;
 
 import Model.MLecture;
 import Valueobject.VLecture;
-
+//coderabbit review
 public class CLecture { 
 	private MLecture mLecture;
 	

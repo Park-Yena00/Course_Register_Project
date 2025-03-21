@@ -1,7 +1,7 @@
 package Valueobject;
 
 import java.util.Scanner;
-
+//coderabbit review
 public class VLecture {
 	//코드, 강좌명, 교수명, 학점, 강좌시간
 	private int code;

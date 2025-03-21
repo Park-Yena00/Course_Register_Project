@@ -7,7 +7,7 @@ import Control.CIndex;
 import Control.CLecture;
 import Valueobject.VIndex;
 import Valueobject.VLecture;
-
+//coderabbit review
 public class PLectureSelection {
 		//index 
 		private CIndex cIndex;

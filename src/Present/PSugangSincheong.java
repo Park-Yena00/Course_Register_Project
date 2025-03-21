@@ -4,7 +4,7 @@ import java.util.Scanner;
 import Valueobject.VLecture;
 import Valueobject.VUserInfo;
 
-
+//coderabbit review
 	public class PSugangSincheong {
 		private PLectureSelection pLectureSelection;
 		private PBasket pBasket;

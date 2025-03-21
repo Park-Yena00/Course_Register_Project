@@ -4,7 +4,7 @@ import java.util.Vector;
 
 import Control.CMySugang;
 import Valueobject.VLecture;
-
+//coderabbit review
 	public class PMySugang {
 	private CMySugang cMySugang;
 	private Vector<VLecture> vSugangVector;

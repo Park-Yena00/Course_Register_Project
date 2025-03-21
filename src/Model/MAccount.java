@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import Valueobject.VLogin;
 import Valueobject.VUserInfo;
-
+//coderabbit review
 	public class MAccount {
 
 		public VUserInfo login(VLogin vLogin) {

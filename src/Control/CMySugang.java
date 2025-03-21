@@ -6,7 +6,7 @@ import Valueobject.VLecture;
 public class CMySugang {
     private MMySugang mMySugang;
     private VLecture vSugangVector;
-    
+    //coderabbit review
     public CMySugang() {
         this.mMySugang = new MMySugang();
     }
