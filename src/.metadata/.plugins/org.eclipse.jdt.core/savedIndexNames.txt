@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\dpsk1\OneDrive\바탕 화면\project\Sugangsincheong\src\.metadata\.plugins\org.eclipse.jdt.core
